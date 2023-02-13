@@ -2,10 +2,10 @@ package Laços_Condicionais;
 
 import java.util.Scanner;
 
-public class exercicio_lacoscondicionais02 {
+public class Condicional_Switch {
 
 	public static void main(String[] args) {
-
+		
 		int cod,quant;
 		float valor;
 		
@@ -55,3 +55,8 @@ public class exercicio_lacoscondicionais02 {
 	}
 
 }
+
+
+
+
+	
